@@ -16,16 +16,16 @@ class MyApp extends StatelessWidget {
       DeviceOrientation.portraitUp,
     ]);
 
-    // Set default status bar color
-    SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(statusBarColor: primaryColor));
+    // Set default color of status bar
+    SystemChrome.setSystemUIOverlayStyle(
+        SystemUiOverlayStyle(statusBarColor: primaryColor));
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Aadhar Generator',
       theme: ThemeData(
-        primarySwatch: createMaterialColor(primaryColor),
-        scaffoldBackgroundColor: bgColor
-      ),
+          primarySwatch: createMaterialColor(primaryColor),
+          scaffoldBackgroundColor: bgColor),
       home: const SplashScreen(),
     );
   }
