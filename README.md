@@ -59,8 +59,10 @@ Before you begin, ensure you have met the following requirements:
     ```
     flutter run
     ```
+
+---
     
-🛠️ Usage
+## 🛠️ Usage
 Launch the app on your device or emulator, and explore the various options to create your fictional Aadhar card. Customize the design, input details, and generate a card for educational exploration.
 
 ---
