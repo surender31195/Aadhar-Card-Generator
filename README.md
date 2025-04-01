@@ -67,6 +67,11 @@ Launch the app on your device or emulator, and explore the various options to cr
 
 ---
 
+## 📚 Contribution
+Contributions are welcome! Please fork the repository and create a pull request for any improvements. For major changes, please open an issue first to discuss your ideas.
+
+---
+
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
