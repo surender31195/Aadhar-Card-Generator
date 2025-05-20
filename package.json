@@ -1,0 +1,11 @@
+{
+  "name": "aadhar-generator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "flutter run -d web",
+    "build": "flutter build web",
+    "clean": "flutter clean",
+    "test": "flutter test"
+  }
+}
